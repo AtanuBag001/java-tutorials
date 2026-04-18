@@ -15,8 +15,8 @@ public class Percentage_calculator_06 {
         sub5 = sc.nextFloat();
         float total =  sub1+sub2+sub3+sub4+sub5;
         float fullmarks = 500;
-        float percentage = (total*100)/500;
+        float percentage = (total*100)/fullmarks;
         System.out.println(percentage);
-
+       sc.close();
     }
 }

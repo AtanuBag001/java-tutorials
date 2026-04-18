@@ -14,7 +14,8 @@ public class literals_04 {
         System.out.println (d1);
         System.out.println (ch);
         System.out.println (a);
-
+        System.out.println(height);
+        System.out.println(ageDino);
 
     }
 }

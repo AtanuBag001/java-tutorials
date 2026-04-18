@@ -20,5 +20,6 @@ public static void main(String[] args){
     //String str = sc.next();//reads only first word
     String str = sc.nextLine();//reads whole line
     System.out.println(str);
+    sc.close();
   }
 }

@@ -22,7 +22,8 @@ public class For_each_loop{
     for (int i = marks.length-1; i>=0;i--){
         System.out.println(marks[i]);
     }
-    System.out.println("printing array using for each loop");//use when index is not neccesary
+    System.out.println("printing array using for each loop");//use when index is not
+    //  neccesary only element needed
     
     for(int element : marks){
         System.out.println(element);

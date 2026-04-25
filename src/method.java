@@ -9,10 +9,27 @@ public class method {
         }
         return z;
     }
-    public static void main(String[] args) {
+        
+    //    int logic(int x , int y){
+    //     int z;
+    //     if(x>y){
+    //         z = x+y;
+    //     }
+    //     else{
+    //         z = (x+y)*5;
+    //     }
+    //     return z;
+    // }
+
+     public static void main(String[] args) {
         int a = 5;
         int b = 7;
-        int c = logic (a,b);
+        // method invocation using object creation
+        // method obj = new method();
+        // int c = obj.logic (a,b);
+        //if the method is not static then we can call it using by object creation
+        //shown on the up
+        int c = logic(a,b);
         System.out.println(c);
         int a1 = 2;
         int b1 = 1;

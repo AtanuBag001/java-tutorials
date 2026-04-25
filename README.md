@@ -7,7 +7,7 @@ I am actively solving problems and building a strong foundation in Java for inte
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **AtanuBag001**
 
@@ -15,14 +15,14 @@ I am actively solving problems and building a strong foundation in Java for inte
 
 ##  What You'll Find Here
 
-### 🔹 Basics
+###  Basics
 
 * Variables & Data Types
 * Operators
 * Conditional Statements (if-else, switch)
 * Loops (for, while, do-while)
 
-### 🔹 Core Concepts
+###  Core Concepts
 
 * Functions / Methods
 * Arrays & Strings
@@ -34,27 +34,27 @@ I am actively solving problems and building a strong foundation in Java for inte
   * Encapsulation
   * Abstraction
 
-### 🔹 Intermediate Topics
+###  Intermediate Topics
 
 * Exception Handling
 * Collections Framework
 * File Handling
 
-### 🔹 Problem Solving
+###  Problem Solving
 
 * Java-based coding problems
 * Logical and pattern problems
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Language: **Java**
 * IDE: IntelliJ IDEA / VS Code
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository:
 
@@ -75,12 +75,12 @@ javac FileName.java
 java FileName
 ```
 
-## 📈 Progress
+##  Progress
 
-🚧 This repository is actively updated as I continue learning and practicing.
+ This repository is actively updated as I continue learning and practicing.
 
 ---
 
 ##  Support
 
-If you find this helpful, consider giving it a star ⭐
+If you find this helpful, consider giving it a star 

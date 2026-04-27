@@ -25,8 +25,8 @@ public class For_each_loop{
     System.out.println("printing array using for each loop");//use when index is not
     //  neccesary only element needed
     
-    for(int element : marks){
-        System.out.println(element);
+    for(int a : marks){
+        System.out.println(a);
     }
 }
 }

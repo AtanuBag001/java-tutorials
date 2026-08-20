@@ -13,12 +13,12 @@ public  class strings{
         System.out.printf("The value of a is %d and the value of b is %f ",a,b);
         //taking input
         Scanner sc = new Scanner(System.in);
-       //it will take input but at print time it will print only one word
-        //String st = sc.next();
+       
+        //String st = sc.next();it will take input but at print time it will print only one word
         //System.out.println(st);
-        //take input as well as print the whole line
-        String sp = sc.nextLine();
+        String sp = sc.nextLine();//take input as well as print the whole line
         System.out.println(sp);
+    
 
     }
         

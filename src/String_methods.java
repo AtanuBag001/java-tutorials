@@ -16,6 +16,7 @@ public class String_methods {
         //print the string from the given index
         System.out.println(name.substring(2));
          System.out.println(name.substring(1,3));
+         
     
     }
 }

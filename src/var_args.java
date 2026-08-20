@@ -1,7 +1,7 @@
 public class var_args{
 
     static int sum (int ...arr){
-        //availabe as int [] arr 
+        //availabe as int [] arr
         int res = 0 ;
         for (int a : arr){
             res += a ;
